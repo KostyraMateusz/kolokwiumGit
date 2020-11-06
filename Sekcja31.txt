@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 Zmiana1
 prostaWersja1
 prostaWersja2
 Zmiana5
 Zmiana6
+=======
+>>>>>>> parent of 4440683... Zmiana 2 i 3
