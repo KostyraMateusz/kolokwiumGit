@@ -2,3 +2,4 @@ Zmiana1
 Zmiana2
 Zmiana4
 cos
+ 
