@@ -1,3 +1,5 @@
 Zmiana1
 prostaWersja1
 prostaWersja2
+Zmiana5
+Zmiana6
